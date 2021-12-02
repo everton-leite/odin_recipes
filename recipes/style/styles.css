@@ -1,0 +1,19 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1 {
+    color: #730202;
+    text-align: center;
+}
+
+h2 {
+    color: #bf2604;
+}
+
+button {
+    background-color: #d97904;
+    color: white;
+    font-weight: bold;
+}
